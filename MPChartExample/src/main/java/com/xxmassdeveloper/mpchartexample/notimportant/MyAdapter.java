@@ -3,8 +3,8 @@ package com.xxmassdeveloper.mpchartexample.notimportant;
 import android.annotation.SuppressLint;
 import android.content.Context;
 import android.graphics.Typeface;
-import androidx.annotation.NonNull;
 
+import android.support.annotation.NonNull;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;

@@ -1,7 +1,7 @@
 package com.github.mikephil.charting.animation;
 
 import android.animation.TimeInterpolator;
-import androidx.annotation.RequiresApi;
+import android.support.annotation.RequiresApi;
 
 /**
  * Easing options.

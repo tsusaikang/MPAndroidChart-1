@@ -1,9 +1,11 @@
 package com.xxmassdeveloper.mpchartexample.fragments;
+
 import android.graphics.Color;
 import android.graphics.Typeface;
 import android.os.Bundle;
-import androidx.annotation.NonNull;
-import androidx.fragment.app.Fragment;
+
+import android.support.annotation.NonNull;
+import android.support.v4.app.Fragment;
 import android.text.SpannableString;
 import android.text.style.ForegroundColorSpan;
 import android.text.style.RelativeSizeSpan;

@@ -8,7 +8,8 @@ import android.graphics.Color;
 import android.graphics.Paint;
 import android.net.Uri;
 import android.os.Bundle;
-import androidx.core.content.ContextCompat;
+
+import android.support.v4.content.ContextCompat;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.WindowManager;
